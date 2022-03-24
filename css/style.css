@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #F4F9FF;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+li {
+  list-style-position: inside;
+}
+
+h2,
+h3 {
+  font-size: 1.125em;
+  font-weight: bold;
+}
+
+h3 {
+  border-bottom: 1px solid #DEDEDE;
+  padding-bottom: 20px;
+}
